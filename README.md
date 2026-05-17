@@ -74,7 +74,9 @@ This project helped me practice:
 
 ## 📸 Screenshot
 
-![Spotify Clone Screenshot](assets/Screenshot%202026-05-17%20233511.png)
+## 📸 Screenshot
+
+![Spotify Clone Screenshot](./assets/Screenshot%202026-05-17%20233511.png)
 
 ---
 
