@@ -32,30 +32,9 @@ SPOTIFY-Frontend-clone-/
 │
 ├── index.html
 ├── style.css
-├── assets/
-│   └── Screenshot 2026-05-17 233511.png
+├── assets
 └── README.md
 ```
-
----
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/sumankumar9240/SPOTIFY-Frontend-clone-.git
-```
-
-### 2️⃣ Open project folder
-
-```bash
-cd SPOTIFY-Frontend-clone-
-```
-
-### 3️⃣ Run the project
-
-Open `index.html` in your browser.
 
 ---
 
