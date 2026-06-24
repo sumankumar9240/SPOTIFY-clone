@@ -81,6 +81,6 @@ GitHub Profile:
 https://github.com/sumankumar9240
 
 Project Repository:  
-https://github.com/sumankumar9240/SPOTIFY-Frontend-clone-
+https://github.com/sumankumar9240/SPOTIFY-clone
 
 ---
